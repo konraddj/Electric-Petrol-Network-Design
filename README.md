@@ -18,7 +18,7 @@ This project involves designing and implementing a comprehensive network infrast
 
 ## Project Phases
 
-### Phase 1: Local Network Design
+### Phase 1: Local Network Design and Validation
 
 1. **Requirement Analysis**
    - **Tasks:**
@@ -30,7 +30,7 @@ This project involves designing and implementing a comprehensive network infrast
    - **Tasks:**
      - Develop a detailed plan for network distribution within the petrol station and inter-building connections.
      - Document physical and logical network architectures, including IP addressing, VLAN configurations, and device placements.
-   - **Outcome:** Detailed design documents and equipment specifications.
+   - **Outcome:** Detailed design documents and equipment specifications (BOM).
 
 3. **Simulation and Testing**
    - **Tasks:**
@@ -38,7 +38,7 @@ This project involves designing and implementing a comprehensive network infrast
      - Conduct functional, performance, security, and user acceptance tests.
    - **Outcome:** Verified network design ready for implementation.
 
-### Phase 2: WAN Design and Implementation
+### Phase 2: WAN Design, Security, and Implementation
 
 1. **WAN Design and Costing**
    - **Tasks:**
@@ -49,7 +49,7 @@ This project involves designing and implementing a comprehensive network infrast
 2. **Security and Risk Management**
    - **Tasks:**
      - Implement PCI DSS compliance measures for secure payment processing.
-     - Address risks related to hardware failures, cyber attacks, and natural disasters by applying security best practices and disaster recovery plans.
+     - Address risks related to hardware failures, cyber-attacks, and natural disasters by applying security best practices and disaster recovery plans.
    - **Outcome:** A secure WAN infrastructure with minimized risk factors and robust protection.
 
 3. **Implementation and Testing**
