@@ -53,7 +53,8 @@ This project involves designing and implementing a comprehensive network infrast
    - **Outcome:** A fully operational WAN network connecting all sites with secure and reliable connectivity.
 3. **Additional Recommendations**
    - **Tasks:**
-     - Implement regular security audits to ensure ongoing compliance with PCI DSS requirements and to minimize the risk of data security breaches. This will help to maintain adherence to security standards, ensure that payment processing meets legal requirements, and protect customer privacy.
+     - **PCI DSS Compliance**: Implement data encryption and access controls. Regular security audits are needed to protect payment processing and customer data.
+     - **Risk Mitigation**: Address risks like hardware failures and cyber-attacks with robust security practices and regular testing. Ensure efficient WAN operation with clear incident management.
    - **Outcome:** Enhanced protection and resilience of the network infrastructure, further strengthening its security and reliability.
 
 
