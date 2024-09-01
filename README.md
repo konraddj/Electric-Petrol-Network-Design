@@ -51,14 +51,13 @@ This project involves designing and implementing a comprehensive network infrast
      - Deploy the WAN solution, including FortiGate firewalls, IPsec VPNs, and OSPF routing.
      - Perform performance and integration tests to ensure network reliability and security.
    - **Outcome:** A fully operational WAN network connecting all sites with secure and reliable connectivity.
+3. **Additional Recommendations**
+   - **Tasks:**
+     - Implement regular security audits to ensure ongoing compliance with PCI DSS requirements and to minimize the risk of data security breaches. This will help to maintain adherence to security standards, ensure that payment processing meets legal requirements, and protect customer privacy.
+   - **Outcome:** Enhanced protection and resilience of the network infrastructure, further strengthening its security and reliability.
+
 
 ## Conclusion
 
-The project delivers a comprehensive network solution for Electric-Petrol, integrating FortiGate firewalls to enhance security and ensure reliable, scalable connectivity across multiple sites. 
-
-Additionally, it is recommended to implement further security and risk management measures to strengthen the overall network infrastructure. This includes:
-- **PCI DSS Compliance:** Implementing measures for secure payment processing to meet industry standards. This applies to all network infrastructure elements, including servers, routers, cables, firewalls, etc.
-- **Regular Security Audits:** Conduct regular security audits to ensure ongoing compliance with PCI DSS requirements and to minimize the risk of data security breaches. Adhering to security standards is crucial to ensure that payment processing complies with legal requirements and to protect customer privacy.
-
-These additional measures will provide enhanced protection and resilience, further ensuring the security and reliability of the network infrastructure.
+The project delivers a comprehensive network solution for Electric-Petrol, integrating FortiGate firewalls to enhance security and ensure reliable, scalable connectivity across multiple sites.
 
