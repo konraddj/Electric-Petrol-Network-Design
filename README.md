@@ -30,7 +30,7 @@ This project involves designing and implementing a comprehensive network infrast
    - **Tasks:**
      - Develop a detailed plan for network distribution within the petrol station and inter-building connections.
      - Document physical and logical network architectures, including IP addressing, VLAN configurations, and device placements.
-   - **Outcome:** Detailed design documents and equipment specifications (BOM).
+   - **Outcome:** Detailed design documents and equipment specifications and BOM.
 
 3. **Simulation and Testing**
    - **Tasks:**
@@ -38,21 +38,15 @@ This project involves designing and implementing a comprehensive network infrast
      - Conduct functional, performance, security, and user acceptance tests.
    - **Outcome:** Verified network design ready for implementation.
 
-### Phase 2: WAN Design, Security, and Implementation
+### Phase 2: WAN Design and Implementation
 
-1. **WAN Design and Costing**
+1. **WAN Design**
    - **Tasks:**
      - Create a WAN solution to connect the petrol station, data centers, and headquarters.
      - Propose network infrastructure and equipment, including FortiGate firewalls, and estimate deployment costs.
    - **Outcome:** Detailed WAN design and cost estimates for the client.
 
-2. **Security and Risk Management**
-   - **Tasks:**
-     - Implement PCI DSS compliance measures for secure payment processing.
-     - Address risks related to hardware failures, cyber-attacks, and natural disasters by applying security best practices and disaster recovery plans.
-   - **Outcome:** A secure WAN infrastructure with minimized risk factors and robust protection.
-
-3. **Implementation and Testing**
+2. **Implementation and Testing**
    - **Tasks:**
      - Deploy the WAN solution, including FortiGate firewalls, IPsec VPNs, and OSPF routing.
      - Perform performance and integration tests to ensure network reliability and security.
@@ -60,4 +54,11 @@ This project involves designing and implementing a comprehensive network infrast
 
 ## Conclusion
 
-The project delivers a comprehensive network solution for Electric-Petrol, integrating FortiGate firewalls to enhance security and ensuring reliable, scalable connectivity across multiple sites. Through meticulous planning, design, and testing phases, the network meets the client’s performance and security requirements, adhering to industry standards.
+The project delivers a comprehensive network solution for Electric-Petrol, integrating FortiGate firewalls to enhance security and ensure reliable, scalable connectivity across multiple sites. 
+
+Additionally, it is recommended to implement further security and risk management measures to strengthen the overall network infrastructure. This includes:
+- **PCI DSS Compliance:** Implementing measures for secure payment processing to meet industry standards. This applies to all network infrastructure elements, including servers, routers, cables, firewalls, etc.
+- **Regular Security Audits:** Conduct regular security audits to ensure ongoing compliance with PCI DSS requirements and to minimize the risk of data security breaches. Adhering to security standards is crucial to ensure that payment processing complies with legal requirements and to protect customer privacy.
+
+These additional measures will provide enhanced protection and resilience, further ensuring the security and reliability of the network infrastructure.
+
