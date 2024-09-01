@@ -59,5 +59,4 @@ This project involves designing and implementing a comprehensive network infrast
 
 ## Conclusion
 
-The project delivers a comprehensive network solution for Electric-Petrol, integrating FortiGate firewalls to enhance security and ensure reliable, scalable connectivity across multiple sites.
-
+The project delivers a robust and reliable network infrastructure that meets Electric-Petrol's operational and security requirements, laying a solid foundation for future growth and connectivity.
