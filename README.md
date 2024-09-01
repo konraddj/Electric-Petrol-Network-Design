@@ -9,10 +9,10 @@ This project involves designing and implementing a comprehensive network infrast
 1. **Local Network Design for Maynooth Petrol Station**
    - **Scope:** Develop the local area network (LAN) for the petrol station, covering physical and logical network layouts, equipment specifications, and cost estimates.
    - **Tools Used:** GNS3 emulator for network simulation and validation.
-   - **Outcome:** A detailed LAN design and implementation plan tailored for the petrol station.
+   - **Outcome:** Detailed LAN design and implementation plan tailored for the petrol station.
 
 2. **WAN Design and Implementation**
-   - **Scope:** Design and deploy a WAN solution to connect the Maynooth petrol station, data centers in Cork and Malin, and the headquarters in Skerries. This includes network routing, security, and redundancy planning.
+   - **Scope:** Design and deploy a WAN solution to connect the petrol station, data centers in Cork and Malin, and the headquarters in Skerries. This includes network routing, security, and redundancy planning.
    - **Tools Used:** FortiGate firewalls, IPsec VPNs, OSPF routing protocol, and SD-WAN technology.
    - **Outcome:** A robust WAN design ensuring secure, reliable, and efficient connectivity across all sites.
 
@@ -22,7 +22,7 @@ This project involves designing and implementing a comprehensive network infrast
 
 1. **Requirement Analysis**
    - **Tasks:**
-     - Review the client’s building outlines and network requirements.
+     - Review client’s building outlines and network requirements.
      - Assess network bandwidth needs, user counts, application types, and traffic characteristics.
    - **Outcome:** Comprehensive understanding of network needs and constraints.
 
@@ -50,15 +50,14 @@ This project involves designing and implementing a comprehensive network infrast
    - **Tasks:**
      - Implement PCI DSS compliance measures for secure payment processing.
      - Address risks related to hardware failures, cyber attacks, and natural disasters by applying security best practices and disaster recovery plans.
-     - Configure FortiGate firewalls to manage network security, including secure remote access and VPNs.
    - **Outcome:** A secure WAN infrastructure with minimized risk factors and robust protection.
 
 3. **Implementation and Testing**
    - **Tasks:**
-     - Deploy the WAN solution, configure FortiGate firewalls, set up IPsec VPNs, and implement OSPF routing.
+     - Deploy the WAN solution, including FortiGate firewalls, IPsec VPNs, and OSPF routing.
      - Perform performance and integration tests to ensure network reliability and security.
    - **Outcome:** A fully operational WAN network connecting all sites with secure and reliable connectivity.
 
 ## Conclusion
 
-This project delivers a detailed and robust network solution that incorporates FortiGate firewalls for enhanced security, ensuring secure, reliable, and cost-effective connectivity across multiple sites. Through thorough planning, design, and testing phases, the project meets the client’s requirements and adheres to industry standards for network performance and security.
+The project delivers a comprehensive network solution for Electric-Petrol, integrating FortiGate firewalls to enhance security and ensuring reliable, scalable connectivity across multiple sites. Through meticulous planning, design, and testing phases, the network meets the client’s performance and security requirements, adhering to industry standards.
